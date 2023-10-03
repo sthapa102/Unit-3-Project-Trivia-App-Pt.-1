@@ -1,6 +1,6 @@
-# Project 3 - *Name of App Here*
+Using Extention # Project 3 - *Name of App Here*
 
-Submitted by: **Your Name Here**
+Submitted by: **Sojal Thapa**
 
 **Name of your app** is an app that ... [TODO] 
 
