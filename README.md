@@ -1,7 +1,6 @@
-USING EXTENTION 
 # Project 3 - *Name of App Here*
 
-Submitted by: **Sojal Thapa**
+Submitted by: **Your Name Here**
 
 **Name of your app** is an app that ... [TODO] 
 
