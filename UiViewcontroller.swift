@@ -1,13 +1,13 @@
 //
-//  ViewController.swift
+//  UiViewcontroller.swift
 //  Trivia
 //
-//  Created by Sojal on 10/3/23.
+//  Created by Sojal on 10/5/23.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+class UiViewcontroller: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
