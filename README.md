@@ -3,17 +3,17 @@
 
 Submitted by: **Sojal Thapa**
 
-**Name of your app** is an app that ... [TODO] 
+**Name of your app** is an app that lets user guess correct answer to the question [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: **25** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] User can view the current question and 4 different answers
-- [ ] User can view the next question after tapping an answer
-- [ ] User can answer at least 3 different questions
+- [x] User can view the current question and 4 different answers
+- [x] User can view the next question after tapping an answer
+- [x] User can answer at least 3 different questions
 
 
 The following **optional** features are implemented:
@@ -25,7 +25,6 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
@@ -40,7 +39,6 @@ The following **additional** features are implemented:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
 
 ## License
 
