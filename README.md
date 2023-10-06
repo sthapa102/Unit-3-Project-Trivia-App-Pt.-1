@@ -1,5 +1,5 @@
 @@ -1,53 +1 @@
-Using Extention # Project 3 - *Name of App Here*
+# Project 3 - *Trivia*
 
 Submitted by: **Sojal Thapa**
 
@@ -29,9 +29,14 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+<div>
+    <a href="https://www.loom.com/share/a784871b1f37434fa30c0aa260ec97bd">
+    </a>
+    <a href="https://www.loom.com/share/a784871b1f37434fa30c0aa260ec97bd">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/a784871b1f37434fa30c0aa260ec97bd-with-play.gif">
+    </a>
+  </div>
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## Notes
 
